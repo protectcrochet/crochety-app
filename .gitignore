@@ -1,0 +1,11 @@
+uploads/
+backend/uploads/
+node_modules/
+dist/
+.env
+backend/.env
+*.tar.gz
+*.sqlite
+*.sqlite-journal
+*.bak
+.DS_Store
